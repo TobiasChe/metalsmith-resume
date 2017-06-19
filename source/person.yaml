@@ -1,21 +1,21 @@
-name: Thomas A. Anderson
+name: Tobias Che
 # Info to show in header
-email: neo@zion.gov
-phone: (312) 555-0690
-location: Zion, Earth
+email: Tobias.Che@outlook.com
+phone: 206.596.1904
+location: Seattle, Wa
 # Header introduction / mission statement
-intro: I carry the Matrix's source code, known as the Prime Program. This gives me the ability to freely manipulate the simulated reality of the Matrix, similar to the authority a system administrator has over a given system. I manifest these abilities as various superhuman powers.
+intro: I am a jack-of-all, master of few. My core strength lies in the depth and breadth of my diverse knowledge of knowledge of operating systems, filesystems and networks as well as relative competance in several languages.
 #for Twitter cards:
 twitter: '@neo'
 # Removing all proficiencies will remove the section from the resume
 proficiencies:
   # - list item
   - Hacking
-  - Creative entrepeneurship
-  - Martial arts
-  - Negotiations
-  - Hovercraft piloting
+  - Creative writing
+  - Musical Composition
+  - Solution Creation
+  - Cost Cutting
 # Links to include in header
 links:
   # text: http://link.com
-  '@neo': https://github.com/neo
+  '@DownNetworks': https://down-networks.github.io
